@@ -44,7 +44,7 @@ TODO done by human
 
 ### Via Floppy
 
-TODO done by human
+<img src="images/floppy.jpg" width="150" alt="floppy">
 
 ### All in one
 
@@ -84,11 +84,15 @@ TODO done by human
 
 ### 8. Co-evolution of delivery meachanisms
 
-TODO done by human
+![AnonFloppy]
 
 ### feature flags
 
 TODO done by human
+
+Beware SAT
+
+[SAT]
 
 ### introspectable systems
 
@@ -120,3 +124,4 @@ TODO done by human
 [YEARxxx]: images/YEARxxx.png
 [YEARxxxx]: images/YEARxxxx.png
 [YEARxxxxx]: images/YEARxxxxx.png
+[SAT]: https://en.wikipedia.org/wiki/Boolean_satisfiability_problem

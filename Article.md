@@ -82,7 +82,7 @@ TODO done by human
 
 TODO done by human
 
-### 8. Co-evolution of delivery meachanisms
+### 8. Co-evolution of delivery mechanisms
 
 ![AnonFloppy]
 
